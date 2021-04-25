@@ -1,0 +1,15 @@
+{
+    "name": "mmtalks/prestige",
+    "description": "Extract data from csv files and insert on mysql database.",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.17"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mateus Mesquita",
+            "email": "contact@aicoding.guru"
+        }
+    ]
+}
