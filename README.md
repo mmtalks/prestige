@@ -26,7 +26,7 @@ echo $csv->table();
 ```
 ## API
 
-|methotd|description|
+|method|description|
 |-|-|
 |get|Return the data extracted from the csv file.|
 |inspect|Return the log about the data's extraction.|
