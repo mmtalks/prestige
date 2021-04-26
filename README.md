@@ -33,7 +33,7 @@ echo $csv->table();
 |table|Return one HTML code to mount a table with the data from the csv file.|
 
 
-# Laraval and Database (DB)
+# Laravel and Database (DB)
 
 The returned array from the method ```get``` can be used to create inserts according to the Laravel pattern, because each column from the spreadsheet is translated to each column of the database's table according your argument to $dictionary.
 
