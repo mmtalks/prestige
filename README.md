@@ -1,5 +1,9 @@
 # Prestige
 
+## Complexity
+
+`O(n^2)` (loop inner loop).
+
 ## Requirements to use
 
 - PHP
